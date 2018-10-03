@@ -20,6 +20,7 @@
         android:layout_margin="10dp"/>
 
 <Button
+        android:id="@+id/btnSignIn2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="SIGN IN"

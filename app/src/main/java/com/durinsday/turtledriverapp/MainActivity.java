@@ -27,11 +27,11 @@ public class MainActivity extends AppCompatActivity {
 
         setTitle("TurtleDriver");
         super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
         CalligraphyConfig.initDefault(new CalligraphyConfig.Builder()
                 .setDefaultFontPath("fonts/Arkhip_font.ttf")
                 .setFontAttrId(R.attr.fontPath)
                 .build());
-        setContentView(R.layout.activity_main);
 
         btnSignin = findViewById(R.id.btnSignIn);
         btnRegister = findViewById(R.id.btnRegister);
