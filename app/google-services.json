@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "407978914833",
+    "firebase_url": "https://turtledriver-4a895.firebaseio.com",
+    "project_id": "turtledriver-4a895",
+    "storage_bucket": "turtledriver-4a895.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407978914833:android:e9e2995df57eb97e",
+        "android_client_info": {
+          "package_name": "com.durinsday.turtledriverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407978914833-1fqsr7rvi7lu701nkegq1qrtnkj62pmf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.durinsday.turtledriverapp",
+            "certificate_hash": "5d96ee2aa56803f6b78bc8c5d002d62defa8b7d1"
+          }
+        },
+        {
+          "client_id": "407978914833-itfkk0ljqrouo5vg993bbp8tvro9j720.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa1QatjUPBBhzlVncto8_Jm4R5CX2ffus"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407978914833-itfkk0ljqrouo5vg993bbp8tvro9j720.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
